@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "264163967860",
+    "firebase_url": "https://t-enash-default-rtdb.firebaseio.com",
+    "project_id": "t-enash",
+    "storage_bucket": "t-enash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264163967860:android:a1ecb24a9c43c1261d2221",
+        "android_client_info": {
+          "package_name": "com.example.enash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key":   "AIzaSyBEqOzBywlTxKj1xUR_xZkgKoUJr8FDWtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264163967860:android:1ff6858a7679b38f1d2221",
+        "android_client_info": {
+          "package_name": "com.example.user11_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3bvSSaxgo2f-S4tKj7q8syi_FVDPOuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264163967860:android:9faf9a0c9a51bc571d2221",
+        "android_client_info": {
+          "package_name": "com.example.uu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3bvSSaxgo2f-S4tKj7q8syi_FVDPOuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
